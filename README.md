@@ -18,3 +18,5 @@ Classifying the samples under 3 class of species-Sentosa, virginica, versicolor.
 
 
 An insight we can get from the matrix is that the model was very accurate at classifying Setosa , Versicolor and Virginica (True Positive/All = 1.0).
+
+3. [WIKI](https://github.com/SID262000/IRIS-DATASET-CLASSIFICATION/wiki)
